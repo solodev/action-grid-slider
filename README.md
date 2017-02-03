@@ -1,6 +1,8 @@
 # action-grid-slider
 A common dilemma that often arises is that you do not have enough space available to dedicate to all of your specific links. In such a situation, you can easily implement (1) a grid based container and (2) a slider to handle overflow sections. Combined, this will create a contemporary action grid slider that presents all availble links to an end user.
 
+In this tutorial, [Solodev](https://www.solodev.com/) shows how to implement a simple but effective action grid slider.
+
 ## Tutorials
 
 For detailed instructions, view Solodev's [Creating an Action Grid Slider on your Website](https://www.solodev.com/blog/web-design/creating-an-action-grid-slider-on-your-website.stml) article.
